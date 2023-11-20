@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently pursuing B.Tech in CSE(22-26) from **Sister Nivedita University**
 
-- 🧑🏽‍💻 Interested in **Cyber Security**
+- 🧑🏽‍💻 Interested in **Cyber Security & Ethical Hacking**
 
 - Bookstagram Account link [https://instagram.com/bookish_wanderers?igshid=MTk0NTkyODZkYg==](https://instagram.com/bookish_wanderers?igshid=MTk0NTkyODZkYg==)
 
