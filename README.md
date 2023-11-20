@@ -1,4 +1,4 @@
-![logo](https://github.com/KalyanGuru/KalyanGuru/blob/main/Guru.png)
+![logo](https://github.com/KalyanGuru/KalyanGuru/blob/main/G%26s.png)
 <h1 align="center">Hi 👋, I'm Guru Kalyan Paul</h1>
 <h3 align="center">Curious</h3>
 <img align="right" alt="coding" width="300"src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e4750elfrsrl6ij9a68356zrka62b2hqttqt7s4tmew&ep=v1_gifs_search&rid=giphy.gif&ct=g">
